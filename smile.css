@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Nanum Myeongjo', serif;
+}
+#banner {
+    background: url(bg.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.logo {
+    width: 300px;
+    height: auto;
+    position: absolute;
+    left: 25%;
+    bottom: 34%;
+}
+
+.banner-text {
+    text-align: center;
+    color: #797A9E;
+    padding-top: 250px;
+    padding-left: 19%
+}
+
+.banner-text h1 {
+font-size: 120px
+}
+
